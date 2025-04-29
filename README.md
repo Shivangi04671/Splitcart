@@ -1,8 +1,8 @@
 SplitCart — Collaborative Shopping Cart
 SplitCart is a collaborative e-commerce-like platform that allows users to create or join shared shopping carts with friends and family. It offers an intuitive interface, animations, and a responsive design.
- Firstly,run command on your vs code terminal :
-   npm create vite@latest frontend
-   Create a react folder using javascript
+
+ Firstly,run command on your vs code terminal : npm create vite@latest frontend and then Create a react folder using javascript.
+ 
  --> Features
  1. Create or join a shared cart, 
  2.Smooth animations and transitions, 
