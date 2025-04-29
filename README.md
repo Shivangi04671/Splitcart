@@ -1,5 +1,7 @@
 SplitCart — Collaborative Shopping Cart
-SplitCart is a collaborative e-commerce-like platform that allows users to create or join shared shopping carts with friends and family. It offers an intuitive interface, animations, and a responsive design.
+SplitCart is a collaborative e-commerce-like platform that allows users to create or join shared shopping carts with friends and family. 
+
+It offers an intuitive interface, animations, and a responsive design.
 
  Firstly,run command on your vs code terminal : npm create vite@latest frontend and then Create a react folder using javascript.
  
@@ -26,16 +28,20 @@ Cart Room.
 ],
 In your index.css or styles.css, include:
 @tailwind base;
+
 @tailwind components;
+
 @tailwind utilities;
 
--->Remix Icon Integration
-It is used to display icons on your website
+-->Remix Icon Integration: It is used to display icons on your website
+
 npm install remixicon --save
 
 --> How to Run
 1.Clone the repository
+
 2.Start the development server on your terminal: npm run dev
+
 Visit: http://localhost:3000
 
 
